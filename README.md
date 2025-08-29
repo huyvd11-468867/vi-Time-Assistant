@@ -3,6 +3,7 @@
 > Vietnamese Chrome Extension + FastAPI backend that **tracks your browsing time** (e.g. Facebook, YouTube) and gives you **AI-powered feedback** using OpenAI GPT.
 
 <p align="center">
+  <img src="assets/demo.png" alt="Popup Dashboard" width="45%"/>
   <img src="assets/demo_2.png" alt="AI Chat Window" width="45%"/>
 </p>
 
