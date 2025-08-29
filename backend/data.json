@@ -53,6 +53,71 @@
           "site": "null",
           "duration_seconds": 6,
           "log_date": "2025-08-29"
+        },
+        {
+          "site": "360vds.viettel.vn",
+          "duration_seconds": 10,
+          "log_date": "2025-08-29"
+        },
+        {
+          "site": "facebook.com",
+          "duration_seconds": 4,
+          "log_date": "2025-08-29"
+        },
+        {
+          "site": "google.com",
+          "duration_seconds": 1,
+          "log_date": "2025-08-29"
+        },
+        {
+          "site": "vmail.viettel.vn",
+          "duration_seconds": 3,
+          "log_date": "2025-08-29"
+        },
+        {
+          "site": "360vds.viettel.vn",
+          "duration_seconds": 24,
+          "log_date": "2025-08-29"
+        },
+        {
+          "site": "platform.openai.com",
+          "duration_seconds": 6,
+          "log_date": "2025-08-29"
+        },
+        {
+          "site": "facebook.com",
+          "duration_seconds": 42,
+          "log_date": "2025-08-29"
+        },
+        {
+          "site": "facebook.com",
+          "duration_seconds": 56,
+          "log_date": "2025-08-29"
+        },
+        {
+          "site": "chatgpt.com",
+          "duration_seconds": 11,
+          "log_date": "2025-08-29"
+        },
+        {
+          "site": "facebook.com",
+          "duration_seconds": 44,
+          "log_date": "2025-08-29"
+        },
+        {
+          "site": "chatgpt.com",
+          "duration_seconds": 31,
+          "log_date": "2025-08-29"
+        },
+        {
+          "site": "facebook.com",
+          "duration_seconds": 26,
+          "log_date": "2025-08-29"
+        },
+        {
+          "site": "chatgpt.com",
+          "duration_seconds": 59,
+          "log_date": "2025-08-29"
         }
       ],
       "chat_history": [
@@ -80,6 +145,21 @@
           "question": "nay dùng fb bao lâu rồi",
           "answer": "Bạn đã sử dụng Facebook trong 1 phút hôm nay, chiếm 33% tổng thời gian sử dụng internet (3 phút). \n\nNhận xét: Bạn chủ yếu sử dụng ChatGPT (67% tổng thời gian) và rất ít thời gian trên YouTube. \n\nGợi ý: Hãy thử dành thêm thời gian cho YouTube để đa dạng hóa nội dung giải trí.",
           "asked_at": "2025-08-29T09:02:54"
+        },
+        {
+          "question": "hi",
+          "answer": "Dữ liệu cho thấy bạn sử dụng Facebook 25% thời gian (1 phút), chatgpt.com 50% (2 phút), và không sử dụng YouTube. Tổng thời gian sử dụng internet là 4 phút.\n\nNhận xét: \n1. ChatGPT chiếm phần lớn thời gian sử dụng, cho thấy bạn có thể đang tìm kiếm thông tin hoặc hỗ trợ.\n2. Việc không sử dụng YouTube có thể cho thấy bạn không quan tâm đến nội dung video hoặc giải trí.\n\nGợi ý: Hãy thử dành thời gian cho YouTube để khám phá nội dung đa dạng và giải trí hơn.",
+          "asked_at": "2025-08-29T09:39:30"
+        },
+        {
+          "question": "nay dùng fb bao lâu rồi",
+          "answer": "Bạn đã không sử dụng Facebook hôm nay, thời gian là 0 phút. \n\nNhận xét: Việc không sử dụng mạng xã hội có thể giúp bạn tập trung vào các hoạt động khác. Tuy nhiên, nếu bạn cần cập nhật thông tin hoặc kết nối với bạn bè, hãy xem xét việc sử dụng một chút thời gian cho các nền tảng này.\n\nGợi ý: Cân nhắc dành ít nhất 10-15 phút mỗi ngày để duy trì kết nối xã hội.",
+          "asked_at": "2025-08-29T09:40:56"
+        },
+        {
+          "question": "tôi đã dùng fb bao lâu rồi",
+          "answer": "Bạn đã sử dụng Facebook 1 phút. \n\nNhận xét: Thời gian sử dụng Facebook chiếm 50% tổng thời gian trực tuyến của bạn (2 phút). Điều này cho thấy bạn có thể dành thời gian nhiều hơn cho các nền tảng khác.\n\nGợi ý: Hãy thử khám phá thêm các nền tảng khác như YouTube hoặc các trang web học tập để đa dạng hóa trải nghiệm trực tuyến của bạn.",
+          "asked_at": "2025-08-29T09:42:58"
         }
       ]
     }
