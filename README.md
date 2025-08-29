@@ -139,7 +139,7 @@ curl -X POST http://127.0.0.1:8000/chat   -H "Content-Type: application/json"   
 
 ## 📜 License
 
-MIT License © 2025 [Your Name]
+MIT License © 2025 HuyVo
 
 ---
 
