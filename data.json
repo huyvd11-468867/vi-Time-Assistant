@@ -1,0 +1,19 @@
+{
+  "users": {
+    "u1": {
+      "usage_logs": [],
+      "chat_history": [
+        {
+          "question": "Hôm nay tôi dùng Facebook bao lâu?",
+          "answer": "Hôm nay bạn đã sử dụng Facebook trong 60 phút, chiếm 75% thời gian sử dụng internet của bạn. \n\nNhận xét: Thời gian sử dụng Facebook khá cao so với YouTube, cho thấy bạn có thể đang dành nhiều thời gian cho mạng xã hội hơn là cho nội dung video.\n\nGợi ý: Cân nhắc giảm thời gian trên Facebook và tăng cường sử dụng YouTube để đa dạng hóa trải nghiệm trực tuyến.",
+          "asked_at": "2025-08-29T08:44:59.473368"
+        },
+        {
+          "question": "Hôm nay tôi dùng Facebook bao lâu?",
+          "answer": "Hôm nay bạn đã sử dụng Facebook trong 37 phút. Nhận xét: Thời gian sử dụng Facebook chiếm khoảng 65% tổng thời gian online của bạn. Gợi ý: Cân nhắc giảm thời gian trên Facebook để tăng cường trải nghiệm trên các nền tảng khác.",
+          "asked_at": "2025-08-29T08:45:23.731117"
+        }
+      ]
+    }
+  }
+}

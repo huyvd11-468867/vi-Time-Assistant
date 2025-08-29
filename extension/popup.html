@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="color-scheme" content="light dark">
+  <title>ViTimeAssistant - HuyVo</title>
+  <link rel="stylesheet" href="popup.css" />
+</head>
+<body>
+  <header class="hero">
+    <div class="hero__left">
+      <div class="logo">🕒</div>
+      <div>
+        <h1>ViTimeAssistant - HuyVo</h1>
+        <p class="sub">Trợ lý thói quen duyệt web</p>
+      </div>
+    </div>
+    <a class="settings" href="options.html" target="_blank" title="Cấu hình">⚙️</a>
+  </header>
+
+  <section class="card kpi" id="kpi">
+    <div class="kpi__item">
+      <div class="kpi__label">Tổng hôm nay</div>
+      <div class="kpi__value" id="kpiTotal">—</div>
+    </div>
+    <div class="kpi__divider"></div>
+    <div class="kpi__item">
+      <div class="kpi__label">Top trang</div>
+      <div class="kpi__value" id="kpiTop">—</div>
+    </div>
+  </section>
+
+  <section class="card">
+    <div class="card__title">Phân bổ theo trang</div>
+    <div id="sitesList" class="sites"></div>
+    <canvas id="miniChart" width="320" height="140" class="chart"></canvas>
+  </section>
+
+  <section class="card">
+    <div class="card__title">Chat với trợ lý</div>
+    <div class="chat">
+      <input id="question" class="input" placeholder="Hỏi nhanh (vd: Mình dùng FB có nhiều quá không?)" />
+      <button id="send" class="btn">Gửi</button>
+    </div>
+    <div id="response" class="response" aria-live="polite"></div>
+  </section>
+
+  <footer class="footer">
+    <button id="refresh" class="btn btn--ghost">Làm mới</button>
+    <small class="muted">Dữ liệu cập nhật mỗi 15s • Gửi server mỗi 1 phút</small>
+  </footer>
+
+  <script src="popup.js"></script>
+</body>
+</html>
