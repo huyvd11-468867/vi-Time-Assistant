@@ -1,0 +1,87 @@
+{
+  "users": {
+    "u1": {
+      "username": "huy",
+      "email": "huy@example.com",
+      "usage_logs": [
+        {
+          "site": "facebook.com",
+          "duration_seconds": 3600,
+          "log_date": "2025-08-29T00:00:00"
+        },
+        {
+          "site": "youtube.com",
+          "duration_seconds": 1200,
+          "log_date": "2025-08-29T00:00:00"
+        },
+        {
+          "site": "chatgpt.com",
+          "duration_seconds": 14,
+          "log_date": "2025-08-29"
+        },
+        {
+          "site": "chatgpt.com",
+          "duration_seconds": 50,
+          "log_date": "2025-08-29"
+        },
+        {
+          "site": "chatgpt.com",
+          "duration_seconds": 57,
+          "log_date": "2025-08-29"
+        },
+        {
+          "site": "chatgpt.com",
+          "duration_seconds": 43,
+          "log_date": "2025-08-29"
+        },
+        {
+          "site": "facebook.com",
+          "duration_seconds": 1,
+          "log_date": "2025-08-29"
+        },
+        {
+          "site": "facebook.com",
+          "duration_seconds": 47,
+          "log_date": "2025-08-29"
+        },
+        {
+          "site": "facebook.com",
+          "duration_seconds": 54,
+          "log_date": "2025-08-29"
+        },
+        {
+          "site": "null",
+          "duration_seconds": 6,
+          "log_date": "2025-08-29"
+        }
+      ],
+      "chat_history": [
+        {
+          "question": "Hôm nay tôi dùng Facebook bao lâu?",
+          "answer": "Bạn đã dùng Facebook 60 phút.",
+          "asked_at": "2025-08-29T08:00:00"
+        },
+        {
+          "question": "ê",
+          "answer": "Dữ liệu hiện tại cho thấy bạn chưa sử dụng bất kỳ nền tảng nào trên internet, với tổng thời gian là 0 phút. Điều này có thể cho thấy bạn chưa tham gia vào các hoạt động trực tuyến.\n\nGợi ý: Hãy thử dành ít phút mỗi ngày để khám phá các nền tảng như YouTube hoặc Facebook để cải thiện trải nghiệm trực tuyến của bạn.",
+          "asked_at": "2025-08-29T08:56:34"
+        },
+        {
+          "question": "ê",
+          "answer": "Dữ liệu cho thấy bạn không sử dụng bất kỳ nền tảng nào trong hôm nay (0 phút). Điều này có thể cho thấy bạn đang tạm ngừng sử dụng internet hoặc chưa có nhu cầu truy cập.\n\nGợi ý: Hãy thử dành ít nhất 10-15 phút mỗi ngày để khám phá nội dung trên các nền tảng yêu thích, điều này có thể giúp bạn cải thiện trải nghiệm trực tuyến.",
+          "asked_at": "2025-08-29T08:56:34"
+        },
+        {
+          "question": "hello",
+          "answer": "Số liệu cho thấy bạn chỉ sử dụng internet tổng cộng 2 phút, tất cả thời gian đều dành cho chatgpt.com. Điều này cho thấy bạn có xu hướng sử dụng nền tảng này một cách hiệu quả, nhưng không sử dụng các mạng xã hội phổ biến như Facebook hay YouTube.\n\nGợi ý: Hãy thử khám phá thêm các nền tảng khác để đa dạng hóa thông tin và trải nghiệm trực tuyến của bạn.",
+          "asked_at": "2025-08-29T09:00:17"
+        },
+        {
+          "question": "nay dùng fb bao lâu rồi",
+          "answer": "Bạn đã sử dụng Facebook trong 1 phút hôm nay, chiếm 33% tổng thời gian sử dụng internet (3 phút). \n\nNhận xét: Bạn chủ yếu sử dụng ChatGPT (67% tổng thời gian) và rất ít thời gian trên YouTube. \n\nGợi ý: Hãy thử dành thêm thời gian cho YouTube để đa dạng hóa nội dung giải trí.",
+          "asked_at": "2025-08-29T09:02:54"
+        }
+      ]
+    }
+  }
+}
